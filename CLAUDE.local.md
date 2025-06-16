@@ -1,0 +1,1 @@
+- don't install npm packages, build or run the app yourself. You are running inside WSL, while I am on windows, and this usually leads to complications. If a package has to be installed or the dev server has to be started, then I will do it for you.
