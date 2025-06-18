@@ -622,7 +622,7 @@ const sendMessage = async () => {
     }
 
     // Send the request and read stream manually (EventSource doesn't support POST)
-    const response = await fetch("/api/chat", {
+    const response = await fetch("/api/chat-edge", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -25,3 +25,6 @@ logs
 
 # Chrome DevTools
 public/.well-known/appspecific/com.chrome.devtools.json
+
+# Local Netlify folder
+.netlify

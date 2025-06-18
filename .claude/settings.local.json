@@ -6,7 +6,8 @@
       "Bash(npm install:*)",
       "Bash(npm uninstall:*)",
       "Bash(rm:*)",
-      "WebFetch(domain:nuxt.com)"
+      "WebFetch(domain:nuxt.com)",
+      "WebFetch(domain:docs.netlify.com)"
     ],
     "deny": []
   }
